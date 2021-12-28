@@ -1,0 +1,25 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "The project is to learn graphqll. Following Stephen from Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneet-ahuja/learn-graphql.git"
+  },
+  "author": "Puneet Ahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneet-ahuja/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/puneet-ahuja/learn-graphql#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0",
+    "lodash": "^4.17.21"
+  }
+}
